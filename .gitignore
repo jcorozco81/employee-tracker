@@ -1,3 +1,9 @@
+#Additional Files and Folders
+/.ignore-files 
+inquirer.js
+db/test-select.sql
+db/add-item.sql
+
 # Logs
 logs
 *.log
